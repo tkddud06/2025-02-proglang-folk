@@ -13,7 +13,8 @@
   - the online version of this textbook is freely available to everyone.
   
 **Lecture materials**
-- Week 7. [Arithmetic Expression with Variable](src/vae)
+- Week 9. [F1VAE: VAE with First-order Functions](src/f1vae)
+- Week 7. [VAE: Arithmetic Expression with Variable](src/vae)
 - Week 6. [Rust crash course (4)](src/rustcc)
 - Week 5. [Arithmeatic Expression with Desugar](src/ae-desugar)
 - Week 4. [Arithmetic Expression (ae)](src/ae)
